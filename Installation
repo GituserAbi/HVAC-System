@@ -1,0 +1,8 @@
+!pip install keras_tuner
+!pip install tensorflow[and-cuda]
+!pip install tensorrt
+
+PSO
+!pip install pyswarms
+!pip install numpy==1.23.1
+!pip install deap
